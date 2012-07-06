@@ -1,4 +1,6 @@
 gscript-server
 ==============
 
-Executes Groovy script at GAE via REST-Interface.
+Executes Groovy scripts at GAE via REST-Interface.
+
+Based on Gaelyk.
